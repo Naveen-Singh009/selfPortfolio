@@ -16,7 +16,7 @@ function About() {
                 </p>
                 <br />
                 <p className=' text-xl'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit quibusdam ab vero quae magnam facilis beatae obcaecati laboriosam numquam, provident aspernatur totam enim harum placeat aliquam perspiciatis architecto a illum ad facere incidunt ut. Suscipit autem laboriosam minima voluptate harum sequi quae nam minus, eligendi, quod in temporibus possimus a?
+                    
                 </p>
             </div>
         </div>
